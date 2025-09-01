@@ -1,9 +1,9 @@
 # Hi, I'm Feritcan Obuz
 
-🔹 4th-year Statistics student at Eskişehir Osmangazi University  
-🔹 Passionate about **Artificial Intelligence, LLM, Machine Learning, Deep Learning, Computer Vision and Real-Time Image Processing**  
-🔹 Hands-on projects in **YOLO, Predictive Maintenance, Edge AI, and Model Optimization**  
-🔹 Python • PyTorch • TensorFlow • OpenCV • Docker • FastAPI • ONNX • TensorRT  
+🔹 4th-year Statistics student at Eskişehir Osmangazi University
+🔹 Passionate about **Artificial Intelligence, LLM, Machine Learning, Deep Learning, Computer Vision and Real-Time Image Processing**
+🔹 Hands-on projects in **YOLO, Predictive Maintenance, Edge AI, and Model Optimization**
+🔹 Python • PyTorch • TensorFlow • OpenCV • Docker • FastAPI • ONNX • TensorRT
 
 ---
 
@@ -42,21 +42,20 @@ Comparative study with YOLO & Autoencoder approaches on industrial imagery.
 🔹 **[SocialScanAI – Hybrid AI for Smart Product Search & Real-Time Tracking](#)**
 Research & development project for intuitive and intelligent e-commerce. Integrates multi-vector hybrid search (CLIP, Sentence-Transformers), advanced rank fusion, and Google Gemini-powered PriceLens for sentiment-aware decision support. Includes real-time WhatsApp notifications for B2C and demand insights for B2B.
 *Tech:* Python, FastAPI, CLIP, Sentence-Transformers, Google Gemini API, Twilio WhatsApp API, Docker, Vanilla JS frontend
-**Repo:** [SocialScanAI](https://github.com/feritcanobuz/SocialScanAI)a
+**Repo:** [SocialScanAI](https://github.com/feritcanobuz/SocialScanAI)
 
-> 💡 Her projede: problem → çözüm → sonuç; kurulum ve kullanım komutları; görsel/GIF ekleyin.
-
----
-
-## 📊 GitHub Stats
-
-![Feritcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=feritcanobuz\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feritcanobuz\&layout=compact\&theme=radical)
 
 ---
 
-## 🌐 Connect with Me
+## GitHub Stats
+
+![Feritcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=feritcanobuz\&show_icons=true\&theme=radical\&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feritcanobuz\&layout=compact\&theme=radical\&cache_seconds=1800)
+
+---
+
+## Connect with Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/feritcan-obuz/](https://www.linkedin.com/in/feritcan-obuz/)
 * **GitHub:** [https://github.com/feritcanobuz](https://github.com/feritcanobuz)
@@ -64,6 +63,23 @@ Research & development project for intuitive and intelligent e-commerce. Integra
 
 ---
 
-###  Hakkımda (TR)
+### Hakkımda (TR)
 
 Eskişehir Osmangazi Üniversitesi İstatistik 4. sınıf öğrencisiyim. Yapay zekâ, makine öğrenmesi, derin öğrenme ve bilgisayarlı görü alanlarında projeler geliştirdim. YOLO tabanlı nesne tanıma, kestirimci bakım ve endüstriyel kalite kontrol gibi gerçek dünya problemlerinde çalıştım. Python, PyTorch, TensorFlow ve OpenCV ekosisteminde üretime hazır çözümler geliştiriyorum.
+
+Aynı zamanda güçlü bir **istatistik ve veri bilimi** altyapısına sahibim. **NeuraSTAT** adlı ekibin **kurucusu** olarak Kaggle ve çeşitli hackathon/datathon yarışmalarına düzenli olarak katılıyorum.
+
+---
+
+"Success is stumbling from failure to failure with no loss of enthusiasm." – Winston Churchill
+
+---
+
+### Note on GitHub Language Stats
+
+GitHub language stats are size-based and may not reflect real coding activity. To make Python more representative in my profile, I use a `.gitattributes` file with the following configuration:
+
+```
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+```
