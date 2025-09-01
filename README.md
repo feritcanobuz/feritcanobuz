@@ -1,9 +1,9 @@
 # Hi, I'm Feritcan Obuz
 
-🔹 4th-year Statistics student at Eskişehir Osmangazi University
-🔹 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**
-🔹 Hands-on projects in **YOLO, Predictive Maintenance, Edge AI, and Model Optimization**
-🔹 Python • PyTorch • TensorFlow • OpenCV • Docker • FastAPI • ONNX • TensorRT
+🔹 4th-year Statistics student at Eskişehir Osmangazi University  
+🔹 Passionate about **Artificial Intelligence, LLM, Machine Learning, Deep Learning, Computer Vision and Real-Time Image Processing**  
+🔹 Hands-on projects in **YOLO, Predictive Maintenance, Edge AI, and Model Optimization**  
+🔹 Python • PyTorch • TensorFlow • OpenCV • Docker • FastAPI • ONNX • TensorRT  
 
 ---
 
@@ -42,7 +42,7 @@ Comparative study with YOLO & Autoencoder approaches on industrial imagery.
 🔹 **[SocialScanAI – Hybrid AI for Smart Product Search & Real-Time Tracking](#)**
 Research & development project for intuitive and intelligent e-commerce. Integrates multi-vector hybrid search (CLIP, Sentence-Transformers), advanced rank fusion, and Google Gemini-powered PriceLens for sentiment-aware decision support. Includes real-time WhatsApp notifications for B2C and demand insights for B2B.
 *Tech:* Python, FastAPI, CLIP, Sentence-Transformers, Google Gemini API, Twilio WhatsApp API, Docker, Vanilla JS frontend
-**Repo:** [SocialScanAI](https://github.com/feritcanobuz/SocialScanAI)
+**Repo:** [SocialScanAI](https://github.com/feritcanobuz/SocialScanAI)a
 
 > 💡 Her projede: problem → çözüm → sonuç; kurulum ve kullanım komutları; görsel/GIF ekleyin.
 
