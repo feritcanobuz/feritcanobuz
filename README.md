@@ -1,9 +1,9 @@
 # Hi, I'm Feritcan Obuz
 
-🔹 4th-year Statistics student at Eskişehir Osmangazi University
-🔹 Passionate about **Artificial Intelligence, LLM, Machine Learning, Deep Learning, Computer Vision and Real-Time Image Processing**
-🔹 Hands-on projects in **YOLO, Predictive Maintenance, Edge AI, and Model Optimization**
-🔹 Python • PyTorch • TensorFlow • OpenCV • Docker • FastAPI • ONNX • TensorRT
+🔹 4th-year Statistics student at Eskişehir Osmangazi University  
+🔹 Passionate about **Artificial Intelligence, LLM, Machine Learning, Deep Learning, Computer Vision and Real-Time Image Processing**  
+🔹 Hands-on projects in **YOLO, Predictive Maintenance, Edge AI, and Model Optimization**  
+🔹 Python • PyTorch • TensorFlow • OpenCV • Docker • FastAPI • ONNX • TensorRT  
 
 ---
 
