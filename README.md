@@ -75,11 +75,4 @@ Aynı zamanda güçlü bir **istatistik ve veri bilimi** altyapısına sahibim. 
 
 ---
 
-### Note on GitHub Language Stats
 
-GitHub language stats are size-based and may not reflect real coding activity. To make Python more representative in my profile, I use a `.gitattributes` file with the following configuration:
-
-```
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-```
