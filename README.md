@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Feritcan Obuz | AI & Data Science Banner" />
+</p>
+
 # Hi, I'm Feritcan Obuz
 
 🔹 4th-year Statistics student at Eskişehir Osmangazi University  
