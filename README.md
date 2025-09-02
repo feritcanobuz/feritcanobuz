@@ -49,9 +49,10 @@ Research & development project for intuitive and intelligent e-commerce. Integra
 
 ## GitHub Stats
 
-![Feritcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=feritcanobuz\&show_icons=true\&theme=radical\&cache_seconds=1800)
+![Feritcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=feritcanobuz&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=7200&v=3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feritcanobuz\&layout=compact\&theme=radical\&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feritcanobuz&layout=compact&theme=radical&hide=html,css&langs_count=8&cache_seconds=7200&v=3)
+
 
 ---
 
