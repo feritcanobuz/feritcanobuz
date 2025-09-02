@@ -53,6 +53,11 @@ Research & development project for intuitive and intelligent e-commerce. Integra
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feritcanobuz&layout=compact&theme=radical&hide=html,css&langs_count=8&cache_seconds=7200&v=3)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=feritcanobuz&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+![Feritcan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=feritcanobuz&theme=radical)
+
+
 
 ---
 
