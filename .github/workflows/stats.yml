@@ -1,0 +1,36 @@
+name: GitHub stats kartlari
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/stats.py
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kartlari uret
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/stats.py dist
+      - name: output branch'ine yaz
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git add .
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "stats kartlari"
+          git push -f "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" output

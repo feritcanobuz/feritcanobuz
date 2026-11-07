@@ -59,13 +59,13 @@ Text and image product search over four vector spaces (CLIP, Sentence-Transforme
 
 ## GitHub Stats
 
-![Feritcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=feritcanobuz&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=7200&v=3)
+![Feritcan's GitHub stats](https://raw.githubusercontent.com/feritcanobuz/feritcanobuz/output/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feritcanobuz&layout=compact&theme=radical&hide=html,css&langs_count=8&cache_seconds=7200&v=3)
+![Top Languages](https://raw.githubusercontent.com/feritcanobuz/feritcanobuz/output/top-langs.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=feritcanobuz&theme=radical&date_format=j%20M%5B%20Y%5D)
 
-![Feritcan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=feritcanobuz&theme=radical)
+![Feritcan's github activity graph](https://raw.githubusercontent.com/feritcanobuz/feritcanobuz/output/activity.svg)
 
 ---
 
